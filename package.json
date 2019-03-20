@@ -1,0 +1,19 @@
+{
+  "name": "ateliernodepartie2",
+  "version": "1.0.0",
+  "description": "Simple HTTP local server",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealBarenziah/Atelier_node_2.git"
+  },
+  "author": "TheRealBarenziah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRealBarenziah/Atelier_node_2/issues"
+  },
+  "homepage": "https://github.com/TheRealBarenziah/Atelier_node_2#readme"
+}
