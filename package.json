@@ -4,7 +4,7 @@
   "description": "Simple HTTP local server",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
